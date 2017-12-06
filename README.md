@@ -11,7 +11,7 @@ for Maven-based Java programs.
 1. Java 1.8
 2. Maven 3.2.5 and above
 3. Maven Surefire 2.14 and above
-4. Operating System: Linux or OSX
+4. Operating System: Linux, OSX and Windows
 
 ## Integrating STARTS Plugin from Maven Central
 
